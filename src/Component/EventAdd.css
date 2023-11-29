@@ -1,0 +1,138 @@
+.Eheading {
+    margin-left: 200px;
+}
+
+.EventBox {
+    margin-left: 200px;
+
+}
+
+.box1 {
+    width: 500px;
+    height: 90px;
+    margin-top: 10px;
+    padding-top: 0px;
+
+
+}
+
+.box2 {
+    width: 500px;
+    height: 130px;
+
+    margin-top: 10px;
+
+}
+
+.box3 {
+    width: 500px;
+    height: 110px;
+
+    margin-top: 10px;
+}
+
+.box4 {
+    width: 500px;
+    height: 110px;
+
+    margin-top: 10px;
+}
+
+.createBtn {
+    margin-top: 10px;
+    margin-left: 210px;
+    width: 125px;
+}
+
+.box2input
+{
+    border: none;
+}
+
+
+
+@media screen and (max-width: 992px) {
+
+    .EventBox {
+        margin-left: 10px;
+        width: 100%;
+        height: 100%;
+       
+       
+    }
+
+    .Eheading {
+        padding-top: 10px;
+        margin-left: 90px;
+    }
+
+    .box1,
+    .box3,
+    .box4 {
+        width: 100%;
+    }
+
+    .bi {
+        margin-top: -2px;
+        width: 17px;
+        height: 17px;
+
+    }
+
+    .title {
+
+        font-size: 15px;
+    }
+
+    .createBtn {
+        margin-right: 150px;
+    }
+
+    .createBtn {
+
+        margin-left: 100px;
+
+    }
+    .box2{
+        width: 100%;
+        height: 100%;
+        
+    }
+    .colimg{
+        margin-left:-50px; 
+    }
+    .box2img{
+        width: 15px;
+        margin-top: 20px;     
+        height: 15px;
+
+    }
+    .startDate{
+        
+        margin-left:30px;  
+    }
+    .boxLable{
+        font-size: 10px;
+        font-weight: bold;
+     
+      
+    }
+    .col-4{
+        width: 200%;
+   
+        font-size: 10px;
+    }
+    .box2input{
+        height:88%;
+        width: 100%;
+        margin-top: 5px;
+        border: 1px transparent;
+        margin-left:10px;
+        font-size: 12px;
+        
+    }
+    
+   
+   
+
+}
